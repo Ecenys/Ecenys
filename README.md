@@ -1,6 +1,6 @@
 # <a href="https://ecenys.github.io"><img src="nekoChan.png" width="56" height="56" /></a> Hello, my name is Óscar Gómez
 
-### Computer Engineer in UCLM and Master in computer graphics, virtual reality and vidogames in URJC
+### Computer Engineer on UCLM and Master in computer graphics, virtual reality and vidogames on URJC
 
 
 I'm a junior software developer with eager to learn. I love animals, videogames and oriental culture :heart:
