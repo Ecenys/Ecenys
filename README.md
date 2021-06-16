@@ -1,4 +1,4 @@
-# <a href="https://ecenys.github.io"><img src="" width="56" height="56" /></a> Hello, my name is Óscar Gómez👋
+# <a href="https://ecenys.github.io"><img src="nekoChan.png" width="56" height="56" /></a> Hello, my name is Óscar Gómez
 
 ### Computer Engineer in UCLM and Master in computer graphics, virtual reality and vidogames in URJC
 
