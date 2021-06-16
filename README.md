@@ -3,7 +3,7 @@
 ### Computer Engineer in UCLM and Master in computer graphics, virtual reality and vidogames in URJC
 
 
-I'm a junior software developer and with eager to learn
+I'm a junior software developer with eager to learn
 
 ## Skills:
 
