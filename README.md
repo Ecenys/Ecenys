@@ -23,7 +23,9 @@ And more...
 
 ## Find me at:
 [![Twitter](https://img.shields.io/twitter/url?label=%40celestial97&url=https%3A%2F%2Ftwitter.com%2Fcelestial97)](https://twitter.com/celestial97)
+<br>
 [![LinkedIn](https://img.shields.io/badge/ogmonedero-0077B5?style=social&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/ogmonedero)
+<br>
 [![Web](https://img.shields.io/website?label=Portfolio&style=social&up_message=ecenys.github.io&url=https%3A%2F%2Fecenys.github.io)](https://ecenys.github.io)
 
 ## Contact me:
